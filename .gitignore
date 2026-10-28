@@ -1,0 +1,7 @@
+﻿target/
+.idea/
+.vscode/
+*.class
+studyflow-data.txt
+
+StudyFlow-With-Java-and-JavaFX/
